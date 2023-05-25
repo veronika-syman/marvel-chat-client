@@ -66,9 +66,9 @@ setTimeout(() => {
 	setTimeout( connection, 1000 );
 }, 6000);
 
-// CONNECTION
-// const socketURL = 'wss://cursovaya-psp-server.onrender.com';
-const socketURL = 'ws://localhost:9000';
+// CONNECTION 
+ const socketURL = 'wss://marvel-chat-server.onrender.com';
+//const socketURL = 'ws://localhost:9000';
 
 /*
 НУЖН ТОЛЬКО 1 ЗАПУСК ПОПЫТКИ ПОДКЛЮЧЕНИЯ connection()
